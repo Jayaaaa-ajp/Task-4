@@ -1,0 +1,21 @@
+#username{
+    background-color: rgba(13, 255, 13, 0.856);
+}
+#password{
+    background-color: rgb(234, 255, 0);
+}
+#email{
+    background-color: rgb(245, 4, 4);
+}
+#gender{
+    background-color: rgb(41, 48, 250);
+}
+#radio{
+    background-color: rgb(101, 20, 177);
+}
+#desc{
+    background-color: rgb(80, 24, 33);
+}
+#submit{
+    background-color: rgb(18, 248, 236);
+}
